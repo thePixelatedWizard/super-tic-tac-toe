@@ -1,9 +1,0 @@
-[package]
-name = "super-tic-tac-toe"
-version = "0.1.0"
-edition = "2021"
-description = "Tic Tac Toe in 9x9 grid"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]

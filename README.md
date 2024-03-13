@@ -1,4 +1,2 @@
 # Super Tic-Tac-Toe
-A tic tac toe in 9x9 grid
-
-## Roadmap
+A super tic tac toe implemented with godot and rust
